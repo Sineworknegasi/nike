@@ -1,4 +1,4 @@
-import { footerLogo } from "../assets/images"
+import {footerLogo} from "../assets/images"
 
 const Footer = () => {
   return (

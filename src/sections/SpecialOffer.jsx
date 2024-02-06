@@ -1,5 +1,5 @@
-import { arrowRight } from "../assets/icons";
-import { offer } from "../assets/images"
+import {arrowRight} from "../assets/icons";
+import { offer } from "../assets/images";
 import Button from "../Components/Button";
 const SpecialOffer = () => {
   return (
